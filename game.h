@@ -1,7 +1,4 @@
-//Group Members:
-//1. Emaan Shakeel   (22i-1279)  Section : A
-//2. Ammara Masood   (21i-0639)  Section : D
-//-----------------------------------------------
+
 #pragma once
 #ifndef game_H
 #define game_H
